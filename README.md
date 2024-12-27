@@ -143,4 +143,3 @@ Each week can have:
 2. **Practical:** Implement ideas with **scikit-learn** and **PyTorch**.
 3. **Assignments:** Solve a real-world task (e.g., regression, classification, or clustering).
 
-Would you like me to design a specific week in more detail?
