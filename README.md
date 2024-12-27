@@ -3,7 +3,6 @@
 &copy; Sifiso Rimana, 2024
 This repository serves as a storage for the notes and exercises as well as projects I make for CS229 Stanford's CS229 Machine Learning course. NB: While I did not officially enroll into the course, I followed it from Stanford Online YouTube channel. Below is the outline I use to follow the course (you'll notice that I use Python, PyTorch, Scikit-Learn, NumPy, and ```statsmodels```).
 
-Based on your goal to incorporate practicals with **scikit-learn** and **PyTorch** while following the given Stanford curriculum, I will structure the topics to ensure theory and practice align well. Below is the restructured plan:
 
 ---
 
